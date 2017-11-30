@@ -1,0 +1,21 @@
+body {
+	background-color: #777;
+	width: 960;
+}
+div {
+	background-color: lightgrey;
+	width: 495;
+}
+header
+nav
+footer
+section {
+	width: 495;
+}
+aside
+article
+h2
+p {
+	font-family: 'Ariel', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+}
